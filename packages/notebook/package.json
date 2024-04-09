@@ -49,7 +49,7 @@
     "@jupyterlab/coreutils": "^6.2.0-alpha.0",
     "@jupyterlab/docregistry": "^4.2.0-alpha.0",
     "@jupyterlab/documentsearch": "^4.2.0-alpha.0",
-    "@jupyterlab/lsp": "^4.2.0-alpha.0",
+    "@jupyterlab/lsp": "^4.0.0",
     "@jupyterlab/nbformat": "^4.2.0-alpha.0",
     "@jupyterlab/observables": "^5.2.0-alpha.0",
     "@jupyterlab/rendermime": "^4.2.0-alpha.0",
