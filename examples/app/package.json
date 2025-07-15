@@ -10,7 +10,7 @@
     "@jupyterlab/application": "^4.4.0-rc.0",
     "@jupyterlab/application-extension": "^4.4.0-rc.0",
     "@jupyterlab/apputils-extension": "^4.4.0-rc.0",
-    "@jupyterlab/builder": "^4.4.0-rc.0",
+    "@jupyterlab/builder": "^4.0.0",
     "@jupyterlab/celltags-extension": "^4.4.0-rc.0",
     "@jupyterlab/codemirror-extension": "^4.4.0-rc.0",
     "@jupyterlab/completer-extension": "^4.4.0-rc.0",
