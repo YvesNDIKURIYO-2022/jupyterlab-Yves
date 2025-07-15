@@ -35,7 +35,7 @@
     "@jupyterlab/apputils": "^4.5.0-rc.0",
     "@jupyterlab/notebook": "^4.4.0-rc.0",
     "@jupyterlab/rendermime": "^4.4.0-rc.0",
-    "@jupyterlab/testing": "^4.4.0-rc.0"
+    "@jupyterlab/testing": "^4.0.0"
   },
   "devDependencies": {
     "rimraf": "~5.0.5",
