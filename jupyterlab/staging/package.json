@@ -195,7 +195,7 @@
     "@jupyterlab/tooltip-extension": "~4.5.0-alpha.1",
     "@jupyterlab/translation-extension": "~4.5.0-alpha.1",
     "@jupyterlab/ui-components-extension": "~4.5.0-alpha.1",
-    "@jupyterlab/vega5-extension": "~4.5.0-alpha.1",
+    "@jupyterlab/vega5-extension": "~4.5.0",
     "@jupyterlab/workspaces-extension": "~4.5.0-alpha.1"
   },
   "devDependencies": {
